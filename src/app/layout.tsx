@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/img/cover.jpg",
+        url: "/img/cover-small.jpg",
         width: 256,
         height: 256,
         alt: SITE.name,
