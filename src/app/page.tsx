@@ -163,31 +163,17 @@ export default function Page() {
           </div>
 
           <p className="col-span-2 text-2xl whitespace-pre-line sm:text-2xl sm:col-span-2">
-            Always building. Composability maxi. Focused on{" "}
+            Co-founder of{" "}
             <Link
               href="https://fluxbeam.xyz/"
               target="_blank"
               className="link-active"
             >
-              FluxBeam
-            </Link>{" "}
-            (DEX fueling Token22 innovation){", "}
-            <Link
-              href="https://fluxbot.xyz/"
-              className="link-active"
-              target="_blank"
-            >
-              FluxBot
+              Fluxbeam
             </Link>
-            {", and "}
-            <Link
-              href="https://rugcheck.xyz/"
-              className="link-active"
-              target="_blank"
-            >
-              RugCheck
-            </Link>{" "}
-            (Solana&apos;s most trusted Anti-Rug tool).
+            {" & "}
+            full time developer with over a decade of experience across
+            distributed systems, machine learning & cyber security.
           </p>
 
           <SocialIcons
