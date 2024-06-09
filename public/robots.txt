@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://pod.dev
+
+# Sitemaps
+#Sitemap: https://pod.dev/sitemap.xml
